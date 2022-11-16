@@ -8,7 +8,7 @@ import Spinner from "./Loader/Loader";
 
 import fetchPictures from "./api";
 
-import "./App.module.css";
+import  './App.css';
 
 export default function App() {
   const [modalContent, setModalContent] = useState("");
